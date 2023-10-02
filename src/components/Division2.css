@@ -1,0 +1,33 @@
+.section-section{
+    position: relative;
+}
+.sec2-text{
+    position: absolute;
+    padding: 50px 150px;
+    top:20%;
+    left:5%;
+    color: rgba(244, 204, 7, 0.868);
+}
+.sec2-text-2{
+    
+    text-align: center;
+    font-size: xx-large;
+}
+@media (max-width:1000px){
+    .sec2-text{
+        font-size: large;
+        padding: 30px 125px;
+    }
+}
+@media (max-width:826px ){
+    .sec2-text{
+        font-size:small;
+        padding: 5px 100px;
+    }}
+@media (max-width:700px){
+    .sec2-text{
+        font-size :2vh;
+        padding: 0px 15px;
+    }
+    }
+

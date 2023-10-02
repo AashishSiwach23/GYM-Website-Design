@@ -1,0 +1,28 @@
+
+#features{
+    position: relative;
+    background-color: #fff;
+}
+.container-fluid{
+    margin: 100% 0%;
+    padding: 100% 15%;
+}
+
+.feature-box{
+    
+    padding: 5%;
+}
+.feature-title{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.fa-4x{
+    color: #521933;
+}
+.icon{
+    color: #521933;
+    margin: 1rem;
+}
+.icon:hover{
+    color:#831d4b;
+}

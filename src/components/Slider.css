@@ -1,0 +1,45 @@
+/* .main-slide{
+    padding-top: 30px;
+}
+
+.carousel .slider-wrapper{
+    width: 50%;
+}
+
+.carousel .thumb{
+    width: 5%;
+    height: 50px;
+}
+
+.carousel{
+    text-align: center;
+} */
+#testimonials{
+    color: #fff;
+    
+}
+.color{
+    background-color: #521933;
+
+}
+
+.testimonial-text{
+    
+    font-size: 2rem;
+    line-height: 1.3;
+}
+.carousel .slide img{
+    border-radius: 50%;
+    width: 25%;
+    margin: 20px;
+}
+#press{
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 10%;
+    margin: 20px 20px 50px ;
+}
+.carousel-item{
+    padding:7% 20%;
+}

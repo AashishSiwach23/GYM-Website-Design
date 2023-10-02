@@ -1,0 +1,56 @@
+
+.first-sec{
+    width: 100%;
+    padding: 80px;
+    text-align: center;
+    background-color: #521933;
+}
+#title{
+    text-align: left;
+    color: #fff;
+}
+#title {
+    padding-top: 3%;    
+}
+/* heading */
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat";
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight:bolder;
+}
+.big-heading{
+    font-family: "Montserrat";
+    color: aliceblue;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:bolder;
+}
+/* download buttons */
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+/* title-image */
+.title-image{
+    position: absolute;
+    border-radius: 2rem;
+    right: 20%;
+    width: 20%;
+}
+@media (max-width: 995px) {
+
+    .big-heading{
+        text-align: center;
+        font-size: 2rem;
+    }
+    .div-margin{
+        margin-top: 10px;
+    }
+    .title-image{
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+}
+
+

@@ -1,0 +1,24 @@
+.footer{
+    color: aliceblue;
+    background-color: #521933;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    padding-top: 10px;
+    margin-bottom: 0%;
+    top: 100px;
+}
+.nav-footer {
+    text-decoration: none;
+    text-align: center;
+}
+.ul-footer{
+    margin: 20px;
+}
+.li-footer{
+    display: inline-block;
+    margin: 20px 50px;
+}
+.footer-text{
+font-size: medium;
+}
